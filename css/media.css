@@ -1,0 +1,65 @@
+@media (max-width: 1199.98px){
+    
+}
+@media (max-width: 991.98px){
+    h1{
+        padding: 0 10px;
+        font-size: 48px;
+    }
+    header{
+        padding: 220px 0; 
+    }
+    .navbar-nav{
+        align-items: flex-start;
+    }
+    section{
+        padding-top: 50px;
+    }
+    .subtitle{
+        margin-bottom: 80px;
+    }
+    .services .col-xl-4{
+        margin-bottom: 50px;
+    }
+    .pricing .col-xl-3{
+        margin-bottom: 30px;
+    }
+    .contact textarea{
+        height: 200px;
+    }
+    .contact{
+        padding-bottom: 50px;
+    }
+    footer .col-xl-3{
+        margin-bottom: 30px;
+    }
+    footer{
+        text-align: center;
+    }
+    .address{
+        align-items: center !important;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+}
+@media (max-width: 767.98px){
+    h1{
+        font-size: 30px; 
+           line-height: 50px;
+    }
+    header{
+        padding: 150px 0;
+    }
+    footer{
+        padding-bottom: 40px; 
+    }
+.subtitle{
+    padding: 0 10px;
+}
+}
+@media (max-width: 575.98px){
+    header a{
+        padding: 10px 30px;
+    }
+}
